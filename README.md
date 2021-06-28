@@ -9,5 +9,5 @@ npm i fetch
 npm i google-tts-api
 
 ou modifier simplement le package.json.
-
+# <strong><i>Exemple</i></strong>
 ![exemple](https://cdn.discordapp.com/attachments/857577436622094337/859005364258209792/Capture.PNG)
