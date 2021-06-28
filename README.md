@@ -9,5 +9,6 @@ npm i fetch
 npm i google-tts-api
 
 ou modifier simplement le package.json.
+il ne faut pas retirer le message.mp3 ! Il doit etre a la racine de votre bot.
 # <strong><i>Exemple</i></strong>
 ![exemple](https://cdn.discordapp.com/attachments/857577436622094337/859005364258209792/Capture.PNG)
